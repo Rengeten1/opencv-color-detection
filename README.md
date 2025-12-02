@@ -19,7 +19,7 @@ A simple color detection program that uses your webcam to identify colors in rea
 Install the required libraries:
 
 ```bash
-pip install opencv-python numpy
+pip install -r requirements.txt
 ```
 
 ## How to Use
